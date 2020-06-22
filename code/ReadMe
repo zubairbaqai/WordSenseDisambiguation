@@ -1,0 +1,14 @@
+If you want to Train , then open the Train.py and kindly change the location of the Dataset and goldenset
+------------------------------------------------
+We Can start the Prediction Code by Either Running the Python3 Predict.py . while Going to the bottom of the code , and changing the parameter code .
+
+Or
+
+Run Below . Where We Just Change the Name of the Function and enter the three parameters
+
+python3 -c 'import predict; predict.predict_babelnet("a","b","c")
+
+
+
+Example
+predict_lexicographer("/home/baqai/Desktop/public_homework_3/Evaluation_Datasets/ALL/ALL.data.xml","../outputFile.txt","/home/baqai/Desktop/public_homework_3/resources")
